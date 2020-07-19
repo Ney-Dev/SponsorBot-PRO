@@ -1,5 +1,5 @@
 # SponsorBot-PRO
-Reproduction du bot "SponsorBot" en javascript
+Reproduction du bot "SponsorBot" en node.js
 
 Bon vue que j'ai vue que y'a des bouffon qui vendent un script qui consiste a faire des messages.collector j'le partage >.<
 Et aussi, vous aurez jamais la même puissance que le vrai SponsorBot Pro: 
